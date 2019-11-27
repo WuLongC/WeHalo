@@ -4069,5 +4069,5 @@ scroll-view.cu-steps .cu-item {
     background-repeat: no-repeat;
     background-size: contain;
     /* background-image:url(../image/cat.png); */
-    background-image:url('xxxxx');
+    background-image:url('https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575471491&di=de1cd37995d8454288f1cb125b73edea&imgtype=jpg&er=1&src=http%3A%2F%2Fwx3.sinaimg.cn%2Fcrop.0.241.1500.843.1000%2F006EDkkvly1fnevwi5xkej315o15oh0x.jpg');
 }

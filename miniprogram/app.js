@@ -88,17 +88,17 @@ App({
         }
 
     },
-    globalData: { //全局变量
-        userInfo: null,
-        skin: null,
-        roleFlag: false,
-        url: "xx",//http://localhost:8090
-        BlogName: "xx",
-        token: "xx",
-        highlightStyle: "dracula", //代码高亮样式，可用值default,darcula,dracula,tomorrow
-        adminOpenid: "xx",
-        HaloUser: "xx",
-        HaloPassword: "xx"
-    }
+  globalData: { //全局变量
+    userInfo: null,
+    skin: null,
+    roleFlag: false,
+    url: "https://dfxcloud.cn",//http://localhost:8090
+    BlogName: "桃恋乌龙茶",
+    token: "xx",
+    highlightStyle: "dracula", //代码高亮样式，可用值default,darcula,dracula,tomorrow
+    adminOpenid: "xx",
+    HaloUser: "WuLongCha",
+    HaloPassword: "dfx2016082205"
+  }
     
 })
