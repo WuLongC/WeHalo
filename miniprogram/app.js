@@ -94,9 +94,9 @@ App({
     roleFlag: false,
     url: "https://dfxcloud.cn",//http://localhost:8090
     BlogName: "桃恋乌龙茶",
-    token: "xx",
+    token: "dfxBlogger",
     highlightStyle: "dracula", //代码高亮样式，可用值default,darcula,dracula,tomorrow
-    adminOpenid: "xx",
+    adminOpenid: "oM6TU5JVBJotHGhp-Pj7VzwaPRdc",
     HaloUser: "WuLongCha",
     HaloPassword: "dfx2016082205"
   }
