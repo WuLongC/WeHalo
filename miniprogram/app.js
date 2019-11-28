@@ -96,7 +96,7 @@ App({
     BlogName: "桃恋乌龙茶",
     token: "dfxBlogger",
     highlightStyle: "dracula", //代码高亮样式，可用值default,darcula,dracula,tomorrow
-    adminOpenid: "oM6TU5JVBJotHGhp-Pj7VzwaPRdc",
+    adminOpenid: "oM6TU5JVBJotHGhp-Pj7VzwaPRdc", 
     HaloUser: "WuLongCha",
     HaloPassword: "dfx2016082205"
   }
