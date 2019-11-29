@@ -219,8 +219,11 @@ Page({
                 list[i].authorUrl = 'https://cn.gravatar.com/avatar/3958035fa354403fa9ca3fca36b08068?s=256&d=mm';
             }
         }
-
-        list[list.length - 1].falg = false;
+        
+        if(list.length-1>0){
+          list[list.length - 1].falg = false;
+        }
+        
         that.setData({
             commentList: res.data.content,
         })
