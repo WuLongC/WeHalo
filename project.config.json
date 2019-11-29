@@ -23,7 +23,7 @@
 		}
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.8.3",
+	"libVersion": "2.9.4",
 	"appid": "wx5a95aebf05847e20",
 	"projectname": "wehalo",
 	"debugOptions": {

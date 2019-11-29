@@ -8,6 +8,7 @@ let touchDotX = 0;//X按下时坐标
 let touchDotY = 0;//y按下时坐标
 let interval;//计时器
 let time = 0;//从按下到松开共多少时间*100
+wx.cloud.init();
 
 Page({
     data: {

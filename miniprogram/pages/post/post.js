@@ -50,7 +50,7 @@ Page({
         // 在适合的场景显示插屏广告
         if (interstitialAd) {
             interstitialAd.show().catch((err) => {
-                console.error(err)
+               // console.error(err)
             })
         }
 
@@ -219,7 +219,7 @@ Page({
                 list[i].authorUrl = 'https://cn.gravatar.com/avatar/3958035fa354403fa9ca3fca36b08068?s=256&d=mm';
             }
         }
-        
+
         if(list.length-1>0){
           list[list.length - 1].falg = false;
         }
